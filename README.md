@@ -1,6 +1,5 @@
-
-This is the source for our paper: ForecastTKGQuestions: A Benchmark for Temporal Question Answering and Forecasting over Temporal Knowledge Graphs.
-
+This is the repository for our ISWC 2023 paper: [ForecastTKGQuestions: A Benchmark for Temporal Question Answering and Forecasting over Temporal Knowledge Graphs](https://arxiv.org/abs/2208.06501).
+Please download the source code and data from [here](https://www.dropbox.com/sh/50xe3c5hndy4jl1/AABoXc7iyyGdZUOiYJO7IhZja?dl=0)
 ### Overview:
 
 Our constructed TKG ICEWS21 and proposed dataset ForecastTKGQuestions is under the directory *Data/*.
@@ -8,8 +7,6 @@ Our constructed TKG ICEWS21 and proposed dataset ForecastTKGQuestions is under t
 Source code of our proposed QA model ForecastTKGQA is under the directory *Code/ForecastTKGQA/*.
 
 Source code of TANGO pre-training is under the directory *Code/TANGO/*.
-
-Source code of question generation, extracted 2-hop rules and question templates are under the directory *Question_Generation/*.
 
 ### Data:
 ##### ICEWS21 
