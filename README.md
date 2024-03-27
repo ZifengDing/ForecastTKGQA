@@ -1,5 +1,5 @@
 This is the repository for our ISWC 2023 paper: [ForecastTKGQuestions: A Benchmark for Temporal Question Answering and Forecasting over Temporal Knowledge Graphs](https://arxiv.org/abs/2208.06501).
-Please download the source code and data from [here]((https://www.dropbox.com/sh/50xe3c5hndy4jl1/AABoXc7iyyGdZUOiYJO7IhZja?dl=0)).
+Please download the source code and data from [here](https://www.dropbox.com/sh/50xe3c5hndy4jl1/AABoXc7iyyGdZUOiYJO7IhZja?dl=0).
 ### Overview:
 
 Our constructed TKG ICEWS21 and proposed dataset ForecastTKGQuestions is under the directory *Data/*.
